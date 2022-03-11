@@ -11,7 +11,7 @@ int main(void)
 	int i;
 	long int j;
 	long long int k;
-	float f;	
+	float f;
 
 	printf("Size of a char: %lu byte(s)\n", sizeof(c));
 	printf("Size of a int: %lu byte(s)\n", sizeof(i));
